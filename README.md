@@ -7,7 +7,7 @@ DIRRRRRTTTTYYYY
 ### Tertiary heading
 #### Quarternary(?) heading
 
-*list
-*list
-*list
+* list
+* list
+* list
 
